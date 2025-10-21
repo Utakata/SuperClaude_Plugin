@@ -1,5 +1,5 @@
 ---
-name: design
+name: sc:design
 description: "Design system architecture, APIs, and component interfaces with comprehensive specifications"
 category: utility
 complexity: basic

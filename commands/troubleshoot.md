@@ -1,5 +1,5 @@
 ---
-name: troubleshoot
+name: sc:troubleshoot
 description: "Diagnose and resolve issues in code, builds, deployments, and system behavior"
 category: utility
 complexity: basic

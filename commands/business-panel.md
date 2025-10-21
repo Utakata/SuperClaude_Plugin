@@ -1,3 +1,6 @@
+---
+name: sc:business-panel
+---
 # /sc:business-panel - Business Panel Analysis System
 
 ```yaml

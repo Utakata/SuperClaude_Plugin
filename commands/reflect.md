@@ -1,5 +1,5 @@
 ---
-name: reflect
+name: sc:reflect
 description: "Task reflection and validation using Serena MCP analysis capabilities"
 category: special
 complexity: standard

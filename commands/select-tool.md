@@ -1,5 +1,5 @@
 ---
-name: select-tool
+name: sc:select-tool
 description: "Intelligent MCP tool selection based on complexity scoring and operation analysis"
 category: special
 complexity: high

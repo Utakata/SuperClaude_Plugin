@@ -1,5 +1,5 @@
 ---
-name: git
+name: sc:git
 description: "Git operations with intelligent commit messages and workflow optimization"
 category: utility
 complexity: basic

@@ -1,5 +1,5 @@
 ---
-name: brainstorm
+name: sc:brainstorm
 description: "Interactive requirements discovery through Socratic dialogue and systematic exploration"
 category: orchestration
 complexity: advanced
