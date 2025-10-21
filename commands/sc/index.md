@@ -1,5 +1,4 @@
 ---
-name: sc:index
 description: "Generate comprehensive project documentation and knowledge base with intelligent organization"
 category: special
 complexity: standard

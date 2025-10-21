@@ -1,17 +1,8 @@
 ---
-name: sc:business-panel
+description: "Multi-expert business analysis with adaptive interaction modes"
+category: "Analysis & Strategic Planning"
 ---
 # /sc:business-panel - Business Panel Analysis System
-
-```yaml
----
-command: "/sc:business-panel"
-category: "Analysis & Strategic Planning"  
-purpose: "Multi-expert business analysis with adaptive interaction modes"
-wave-enabled: true
-performance-profile: "complex"
----
-```
 
 ## Overview
 

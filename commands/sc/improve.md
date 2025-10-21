@@ -1,5 +1,4 @@
 ---
-name: sc:improve
 description: "Apply systematic improvements to code quality, performance, and maintainability"
 category: workflow
 complexity: standard
